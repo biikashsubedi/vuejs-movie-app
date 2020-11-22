@@ -1,0 +1,14 @@
+{
+  "name": "firebase-movie-app",
+  "version": "1.0.0",
+  "description": "movie-app-firebase-connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bikash Subedi",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.4.1"
+  }
+}
